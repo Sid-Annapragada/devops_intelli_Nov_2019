@@ -1,0 +1,4 @@
+function main()
+{
+//sample code;
+}
